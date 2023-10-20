@@ -1,0 +1,3 @@
+/home/yassine/Downloads/monty/cmake-build-debug/CMakeFiles/monty_main.dir
+/home/yassine/Downloads/monty/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/yassine/Downloads/monty/cmake-build-debug/CMakeFiles/rebuild_cache.dir
